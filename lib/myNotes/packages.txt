@@ -1,0 +1,13 @@
+flutter pub add carousel_slider
+
+flutter pub add provider
+
+flutter pub add sqflite
+
+flutter pub add path
+
+flutter pub add path_provider
+
+flutter pub add image_picker
+
+flutter pub add dio

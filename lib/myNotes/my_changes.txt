@@ -1,0 +1,6 @@
+o. android/app/build.gradle:
+compileSdkVersion flutter.compileSdkVersion  -->  compileSdkVersion 33
+
+o. android/build.gradle:
+ext.kotlin_version = '1.6.10'  -->  ext.kotlin_version = '1.7.10'
+
